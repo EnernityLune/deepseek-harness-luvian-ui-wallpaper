@@ -1,0 +1,12 @@
+node_modules/
+lib/
+*.tsbuildinfo
+pnpm-lock.yaml
+
+# User-provided theme media is intentionally private by default.
+src/client/assets/*
+!src/client/assets/README.md
+
+.DS_Store
+Thumbs.db
+
